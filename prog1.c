@@ -11,4 +11,5 @@ printf("The swapped numbers are as follows: %d %d",n1,n2);
 sum=n1+n2;
 printf("Sum is : %d",sum);
 p=n1*n2;
+printf("Product is : %d",p);
 }
