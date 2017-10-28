@@ -3,6 +3,7 @@ void main()
 {
 
 int n1,n2,t,sum=0,p=1;
+float sub;
 
 
 float avg=0.0;
@@ -21,5 +22,8 @@ printf("Product is : %d",p);
 
 avg=(n1+n2)/2;
 printf("Average is : %f",avg);
+
+sub=n1-n2;
+printf("Subtraction is: %f",sub);
 
 }
